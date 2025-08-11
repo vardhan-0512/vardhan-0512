@@ -4,15 +4,13 @@
 ---
 
 ### 🚀 About Me
-I’m a passionate **Software Engineer** from India with strong expertise in **Core CS**, **Python**, **MERN stack**, **Data Structures & Algorithms**, and **Machine Learning**.  
-I specialize in building **scalable applications**, implementing **advanced ML architectures**, and solving **complex real-world problems**.  
-📚 I’m also an **Amazon ML Summer School 2024 Alumnus**, trained in **state-of-the-art deep learning**, **NLP**, and **scalable ML systems**.
+I’m a passionate **Software Engineer** from India with strong expertise in **Core CS**, **Python**, **MERN stack**, **Data Structures & Algorithms**, and **Machine Learning**. I specialize in building **scalable applications**, implementing **advanced ML architectures**, and solving **complex real-world problems**. 📚 I’m also an **Amazon ML Summer School 2024 Alumnus**, trained in **state-of-the-art deep learning**, **NLP**, and **scalable ML systems**.
 
 ---
 
 ### 🌱 Currently Learning
 - Advanced System Design & Distributed Systems  
-- Deep Learning Architectures (Transformers, LSTMs, GANs)  
+- Deep Learning Architectures 
 - Scalable MERN Applications  
 
 ---
