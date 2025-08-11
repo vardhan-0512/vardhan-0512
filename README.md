@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramu Kumar Reddy Pushpa</h1>
+<h1 align="center">Hi , I'm Chenna Vardhan Reddy Yenugula</h1>
 <h3 align="center">Software Engineer | Machine Learning | Full Stack Development</h3>
 
 ---
@@ -11,8 +11,7 @@ I’m a passionate **Software Engineer** from India with strong expertise in **C
 ### 🌱 Currently Learning
 - Advanced System Design & Distributed Systems  
 - Deep Learning Architectures 
-- Scalable MERN Applications  
-
+- Scalable MERN Applications 
 ---
 
 ### 📌 Top Projects
@@ -48,7 +47,7 @@ I’m a passionate **Software Engineer** from India with strong expertise in **C
 
 ### 📫 Contact
 📧 **ramu05@gmail.com**  
-🌐 [LinkedIn](https://linkedin.com/in/ramu05) | [LeetCode](https://leetcode.com/varhdan_0512) | [CodeChef](https://www.codechef.com/users/varhdan_0512)
+🌐 [LinkedIn](https://linkedin.com/in/ycvr) | [LeetCode](https://leetcode.com/varhdan_0512) | [CodeChef](https://www.codechef.com/users/varhdan_0512)
 
 ---
 
