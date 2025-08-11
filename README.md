@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-I’m a passionate **Software Engineer** from India with strong expertise in **Core CS**, **Python**, **MERN stack**, **Data Structures & Algorithms**, and **Machine Learning**. I specialize in building **scalable applications**, implementing **advanced ML architectures**, and solving **complex real-world problems**. 📚 I’m also an **Amazon ML Summer School 2024 Alumnus**, trained in **state-of-the-art deep learning**, **NLP**, and **scalable ML systems**.
+I’m a Final-Year Computer Science Undergrad from India with strong expertise in **Core CS**, **Python**, **MERN stack**, **Data Structures & Algorithms**, and **Machine Learning**. I specialize in building **scalable applications**, implementing **advanced ML architectures**, and solving **complex real-world problems**. 📚 I’m also an **Amazon ML Summer School 2024 Alumnus**, trained in **state-of-the-art deep learning**, **NLP**, and **scalable ML systems**.
 
 ---
 
@@ -46,7 +46,7 @@ I’m a passionate **Software Engineer** from India with strong expertise in **C
 ---
 
 ### 📫 Contact
-📧 **ramu05@gmail.com**  
+📧 **chennavardhan05@gmail.com**  
 🌐 [LinkedIn](https://linkedin.com/in/ycvr) | [LeetCode](https://leetcode.com/varhdan_0512) | [CodeChef](https://www.codechef.com/users/varhdan_0512)
 
 ---
