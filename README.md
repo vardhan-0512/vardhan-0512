@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Chenna Vardhan Reddy Yenugula</h1>
-<h3 align="center">Software Engineer | Machine Learning | Full Stack Development</h3>
+<h3 align="center">Software Engineering | Machine Learning | Full Stack Development</h3>
 
 ---
 
