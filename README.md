@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ramu Kumar Reddy Pushpa</h1>
 <h3 align="center">Software Engineer | Machine Learning | Full Stack Development</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vardhan-0512&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 🚀 About Me
-I’m a passionate **Software Engineer** from India with expertise in **Core CS, Data Structures & Algorithms, Machine Learning, and MERN stack**.  
-I’ve built scalable applications, implemented advanced ML architectures, and contributed to impactful problem-solving projects.  
-📚 **Alumnus, Amazon ML Summer School 2024** – trained in state-of-the-art deep learning, NLP, and scalable ML systems.
+I’m a passionate **Software Engineer** from India with strong expertise in **Core CS**, **Python**, **MERN stack**, **Data Structures & Algorithms**, and **Machine Learning**.  
+I specialize in building **scalable applications**, implementing **advanced ML architectures**, and solving **complex real-world problems**.  
+📚 I’m also an **Amazon ML Summer School 2024 Alumnus**, trained in **state-of-the-art deep learning**, **NLP**, and **scalable ML systems**.
 
 ---
 
@@ -23,24 +19,27 @@ I’ve built scalable applications, implemented advanced ML architectures, and c
 
 ### 📌 Top Projects
 
-#### 1️⃣ [Stock-En-Place](https://github.com/vardhan-0512/Stock-En-Place)
-*Stock market analysis & prediction platform*  
-- **Tech Stack:** Python, Flask, scikit-learn, Prophet, LSTM, yfinance  
-- Analyzed **1,000+ days of stock data** using MACD, Bollinger Bands, ADX, CMF  
-- Achieved **80%+ prediction accuracy** for short-term trends  
-- Real-time dashboards for actionable insights
+#### 1️⃣ [Stock-En-Place](https://github.com/vardhan-0512/Stock-En-Place)  
+*AI-powered stock analytics & forecasting platform*  
+- **Tech Stack:** Python, Flask, LSTM, Prophet, scikit-learn, yfinance, OpenRouter (Qwen 2.5 72B)  
+- Engineered an AI-driven platform with **30+ technical indicators**, **10+ financial calculators**, and an interactive multi-chart canvas → boosted trading success by **7%**  
+- Developed **LSTM-based forecasts** with fuzzy ticker matching, live prices, and sentiment analysis → **R² = 0.94** and **80%+ directional accuracy** in stable markets  
+- Integrated **LLM-powered financial query support**, answering **74%+ queries** in under **2 seconds**  
+- Deployed customizable alerts for real-time trading signals  
 
-#### 2️⃣ [Distributed ML Pipeline (Distripipe)](https://github.com/vardhan-0512/Distripipe)
+#### 2️⃣ [Distributed ML Pipeline (Distripipe)](https://github.com/vardhan-0512/Distripipe)  
 *Multi-model distributed ML training with gRPC*  
 - **Tech Stack:** Python, gRPC, NumPy, Pandas  
 - Parallel training across multiple nodes → **~50% faster training times**  
-- Modular design for easy scaling & multi-model integration
+- Modular design for easy scaling & multi-model integration  
 
-#### 3️⃣ IoT Botnet Attack Prediction System
-*Hybrid deep learning model (EffiGRU-GhostNet) for IoT security*  
+#### 3️⃣ [IoT Botnet Attack Prediction System](https://github.com/vardhan-0512/Research-Paper-Implementations)  
+*Hybrid deep learning model (EffiGRU-GhostNet) for IoT network security*  
 - **Tech Stack:** Python, PyTorch, scikit-learn  
-- Multi-label classification on large-scale IoT traffic datasets  
-- High recall rates → significantly reduced false negatives
+- Trained on **CICIoT2023 dataset** (14M+ flows, 46 features, 34 attack types)  
+- Compared Tree-Based (Random Forest 97.34%), Deep Learning (DCN V2 94%), and Linear (Logistic Regression 81.61%) models  
+- Designed full ML pipeline: data cleaning, PCA + feature ranking, model training, evaluation (Accuracy, F1, Precision, Recall)  
+- Insights: Tree-based models excel in static settings, DL models adapt better to evolving attack patterns  
 
 ---
 
@@ -57,12 +56,21 @@ I’ve built scalable applications, implemented advanced ML architectures, and c
 
 ### 🛠 Languages and Tools
 <p align="left">
+  <!-- Core Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+
+  <!-- MERN Stack -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
+
+  <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+
+  <!-- Machine Learning & AI -->
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
 </p>
@@ -70,10 +78,6 @@ I’ve built scalable applications, implemented advanced ML architectures, and c
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vardhan-0512&show_icons=true&theme=default" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vardhan-0512&theme=default" alt="streak" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vardhan-0512&show_icons=true&locale=en&layout=compact" alt="top languages" />
 </p>
